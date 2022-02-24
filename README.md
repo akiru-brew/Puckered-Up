@@ -14,8 +14,6 @@ For a 13 litre batch, as at [Malt Miller](https://www.themaltmiller.co.uk/rg/?id
 | Crisp Light Muncih Malt        | 500g     |
 | Jumbo Oat Flakes               | 500g     |
 
-From [Grainfather](https://shop.grainfather.com/brewing-calculators)
-
 * Mash water: 21 litres
 * Sparge water: 1 litre
 
@@ -47,10 +45,17 @@ The [BJCP SRM guide](https://www.brewersfriend.com/2017/05/07/beer-styles-srm-co
 
 This is an experiment in kettle souring. It uses exactly the same recipe as [Wim the Third](Wim-the-Third) but with the additional fermentation step.
 
+The method was based on articles [here](https://www.brewuk.co.uk/blog/kettle-souring/) and [here](https://www.homebrewtalk.com/threads/kettle-sour-with-saccharomyces.593438/).
+
 After the mash out the boil was run for just 15 minutes before chilling to 25C and adding a Saccharomyces Bruxellensis yeast starter to the brew kettle. I was able to use the heating element to maintain 25C, but to keep the vessel oxygen free I did a quick purge with CO2 and then wrapper the lid in cling film to try to reduce the airflow.
+
+![First Fermentation](first_ferment.jpg)
+
+
 
 After 72 hours the kettle was given a further 15 minute boil with the rest of the additions added before once again chilling to 25C, then aerating and transferring to a fermenter and adding the second Belgian yeast.
 
+![boil](boil.jpg)
 ## Fermentation
 
 For some reason I completely failed to consider that the first yeast would affect the SG so failed to add a hydrometer and so I can't get an accurate ABV. However, given that it was the same recipe as Wim i'd expect the strength to be around the same.
@@ -64,22 +69,26 @@ For the second fermentation I used an [Inkbird](https://inkbird.com/products/ibt
 
 | Field       | Target         | Actual |
 | ----------- | ------------- | ---------- |
-| OG          | 1.08      |1.070 (guess)|
-| FG          | 1.017      |1.012|
-| ABV         | 8.25%    |7.6% (guess)|
+| OG          | 1.08      |1.080 (guess)|
+| FG          | 1.017      |1.015|
+| ABV         | 8.25%    |8.4% (guess)|
 | Attenuation | 70%     |82% (guess)|
 
 ## Graph
 
-//![Fermentation Graph](graph.jpg)
+![Fermentation Graph](graph.png)
 
 ## Kegging
 I bought a second, secondhand keg to compare to the new one. it's not as shiny but as long as it can maintain a seal I should be happy.
 
-Kegging process is repeated until I can internalise it
+Kegging process is repeated until I can internalise it:
+
 * Dismantle
+
 * Clean keg, keg bits and tap with cleaner. rinse
+
 * reassemble
+
 * add 5l of sanitiser
 * seal
 * add co2 and burp
@@ -93,9 +102,12 @@ The gas level is specific according to temperate and beer style. This [calculato
 
 ## Tasting notes
 
-TBD
+![beer](beer.jpg)
+
+Obviously it needs a couple of weeks to condition, nut first sipsays that it's obivously rather hazy, but the sourness is subtle. it almost tastes like a gentle IPA.
 
 ## Lessons learnt
 
 * Use hydrometer when fermenting!
+* It is important to leave it rest for 48 hours at room tempterature after fermentation has finished, before chilling or gassing. Diacetyl is a natural byproduct of the fermentation process and this time is required to allow the off flavours to be reabsorbed into the yeast.
 * Did the sour work? TBD
