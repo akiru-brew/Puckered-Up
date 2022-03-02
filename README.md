@@ -58,9 +58,9 @@ After 72 hours the kettle was given a further 15 minute boil with the rest of th
 ![boil](boil.jpg)
 ## Fermentation
 
-For some reason I completely failed to consider that the first yeast would affect the SG so failed to add a hydrometer and so I can't get an accurate ABV. However, given that it was the same recipe as Wim i'd expect the strength to be around the same.
+For some reason I completely failed to consider that the first bacteria fermentation would affect the OG but turning sugar into lactic acid.
 
-//I actually had to stop it early as it reached my target FG but fermentation looked like it was going to continue. I didn't want the beer to end up too bitter so transferred the fermenter to a fridge to chill it to 4C.
+After 72 hours I boiled for 15 minutes to stp the first fermentation.
 
 For the second fermentation I used an [Inkbird](https://inkbird.com/products/ibt-310t-b) with a heat mat to regulate the temperature. For a device with only 3 buttons the manual was surprisingly essential reading.
 
@@ -69,10 +69,9 @@ For the second fermentation I used an [Inkbird](https://inkbird.com/products/ibt
 
 | Field       | Target         | Actual |
 | ----------- | ------------- | ---------- |
-| OG          | 1.08      |1.080 (guess)|
+| OG          | 1.080      |1.038 |
 | FG          | 1.017      |1.015|
-| ABV         | 8.25%    |8.4% (guess)|
-| Attenuation | 70%     |82% (guess)|
+| ABV         | 8.25%    |3.0% (guess)|
 
 ## Graph
 
@@ -104,10 +103,15 @@ The gas level is specific according to temperate and beer style. This [calculato
 
 ![beer](beer.jpg)
 
-Obviously it needs a couple of weeks to condition, nut first sipsays that it's obivously rather hazy, but the sourness is subtle. it almost tastes like a gentle IPA.
+Obviously it needs a couple of weeks to condition, but the first taste sya ut's hazy and has a slight mount tingle, almost like an IPA. But it's not sour.
 
 ## Lessons learnt
 
-* Use hydrometer when fermenting!
-* It is important to leave it rest for 48 hours at room tempterature after fermentation has finished, before chilling or gassing. Diacetyl is a natural byproduct of the fermentation process and this time is required to allow the off flavours to be reabsorbed into the yeast.
-* Did the sour work? TBD
+* It is important to leave it rest for 48 hours at room temperature after fermentation has finished, before chilling or gassing. Diacetyl is a natural byproduct of the fermentation process and this time is required to allow the off flavours to be reabsorbed into the yeast.
+* Souring bacteria affect the SG without changing the alcohol content. ABV calculations are more complicated.
+* Kettle souring is complicated.
+  * I need to use lactic acid to get the pH optimal for the bacteria.
+  * I shouldn't add *any* hops during the first boil, these will affect the bacteria.
+
+
+# Puckered Up #2
