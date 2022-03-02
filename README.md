@@ -112,6 +112,7 @@ Obviously it needs a couple of weeks to condition, but the first taste sya ut's 
 * Kettle souring is complicated.
   * I need to use lactic acid to get the pH optimal for the bacteria.
   * I shouldn't add *any* hops during the first boil, these will affect the bacteria.
+  * I could learn a lot for the second attempt by reading blogs from [brewuk](https://www.brewuk.co.uk/blog/kettle-souring/), [homebrewanswers](https://homebrewanswers.com/kettle-sour-brewing/) and [lallemand](https://www.lallemandbrewing.com/docs/products/bp/BEST-PRACTICES_KETTLESOUR_DIGITAL.pdf).
 
 
 # Puckered Up #2
