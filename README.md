@@ -11,7 +11,7 @@ For a 13 litre batch, as at [Malt Miller](https://www.themaltmiller.co.uk/rg/?id
 | ------------------------------ | -------- |
 | Crisp Clear Extra Pale Malt    | 3000g    |
 | Crisp Vienna Malt              | 500g     |
-| Crisp Light Muncih Malt        | 500g     |
+| Crisp Light Munich Malt        | 500g     |
 | Jumbo Oat Flakes               | 500g     |
 
 * Mash water: 21 litres
@@ -103,7 +103,7 @@ The gas level is specific according to temperate and beer style. This [calculato
 
 ![beer](beer.jpg)
 
-Obviously it needs a couple of weeks to condition, but the first taste sya ut's hazy and has a slight mount tingle, almost like an IPA. But it's not sour.
+Obviously it needs a couple of weeks to condition, but the first taste shows it's hazy and has a slight mount tingle, almost like an IPA. But it's not sour.
 
 ## Lessons learnt
 
@@ -116,3 +116,38 @@ Obviously it needs a couple of weeks to condition, but the first taste sya ut's 
 
 
 # Puckered Up #2
+
+This is exactly the same brew with the following modifications:
+* No hops added in first boil
+* The souring bacteria was changed to [Lactobacillus plantarum](https://www.themaltmiller.co.uk/product/wildbrew-sour-pitch/)
+* The bacteria requires the pH of the wort to be raised to ~4.6 by adding lactic acid beforehand.
+
+## Actual figures
+
+
+| Field       | Target         | Actual |
+| ----------- | ------------- | ---------- |
+| OG          | 1.080      |1.059 |
+| FG          | 1.017      |1.011|
+| ABV         | 8.25%    |6.3% |
+
+## Graph
+
+![Fermentation Graph](graph2.png)
+
+## Fermenter
+Notice how well regulated the temperature is - that's because i hooked up the inkbird to a heat mat inside a fridge.
+
+![brew fridge](fridge.jpg)
+
+## Tasting notes
+
+It's a lot sourer, and a lot stronger. Thing is, the souring bacteria didn't alter the SG at all. It's possible that the sourness comes from the lactic acid I added, not from the bacteria. It's possible that the bacteria didn't work as I jousr added it t the wart without giving it a kick start. Its also possible that I didn't get the starting pH right, the strips I used aren't very accurate.
+It tastes like a sour though, a good base to add fruit to.
+
+## Lessons learnt
+
+* I think I need more practice.
+* I would benefit from some advice from someone more experienced.
+* I need a better way to measure pH, e.g. a [digital pH meter](https://www.themaltmiller.co.uk/product/digital-ph-meter/).
+* always start off the baceria or yeast with a bit of sugar in warm water.
